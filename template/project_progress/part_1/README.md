@@ -16,11 +16,11 @@ It performs data analysis and natural language processing using common Python li
    ```bash
    python -m venv venv
    ```
-   run this in Linux/Max
+   run this if in Linux/Mac
    ```bash
    source venv/bin/activate
    ```
-   run this in Windows
+   or run this if in Windows
    ```bash
    venv\Scripts\activate
    ```
