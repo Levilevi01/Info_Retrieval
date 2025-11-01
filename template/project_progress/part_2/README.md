@@ -1,6 +1,6 @@
-# Deliverable 1
+# Deliverable 2
 
-This project contains a Jupyter Notebook (`deliverable_1.ipynb`) written in Python.  
+This project contains a Jupyter Notebook (`deliverable_2.ipynb`) written in Python.  
 It performs data analysis and natural language processing using common Python libraries.
 
 ## Requirements
@@ -43,7 +43,7 @@ It performs data analysis and natural language processing using common Python li
    jupyter notebook
    ```
 
-2. Open `deliverable_1.ipynb` in your browser.
+2. Open `deliverable_2.ipynb` in your browser.
 
 3. Run all cells in order (`Kernel` → `Restart & Run All`).
 
