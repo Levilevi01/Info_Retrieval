@@ -1,7 +1,7 @@
-@ -1,50 +0,0 @@
-# Deliverable 2
+# Deliverable 3
 
-This project contains a Jupyter Notebook (`deliverable_2.ipynb`) written in Python.  
+This project contains a Jupyter Notebook (`deliverable_3.ipynb`) written in Python.  
+
 It performs data analysis and natural language processing using common Python libraries.
 
 ## Requirements
@@ -29,7 +29,7 @@ It performs data analysis and natural language processing using common Python li
 3. **Install dependencies:**
    If you don’t have a `requirements.txt` file, you can install the core libraries manually:
    ```bash
-   pip install numpy pandas matplotlib nltk scikit-learn seaborn wordcloud
+   pip install numpy pandas matplotlib nltk scikit-learn seaborn gensim
    ```
 
 4. **Install NLTK data (first-time setup only):**
@@ -44,7 +44,7 @@ It performs data analysis and natural language processing using common Python li
    jupyter notebook
    ```
 
-2. Open `deliverable_2.ipynb` in your browser.
+2. Open `deliverable_3.ipynb` in your browser.
 
 3. Run all cells in order (`Kernel` → `Restart & Run All`).
 
